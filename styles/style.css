@@ -127,8 +127,8 @@ ul{
   line-height: 34px;
 }
 
-.two-columns__paragraph:last {
-  margin-bottom: 0px;
+.two-columns__paragraph:last-of-type {
+  margin: 0px;
 }
 
 .two-columns__span-accent {
