@@ -127,7 +127,7 @@ ul{
   line-height: 34px;
 }
 
-.two-columns__paragraph:last-child {
+.two-columns__paragraph:last {
   margin-bottom: 0px;
 }
 
@@ -236,7 +236,6 @@ ul{
   width: 867px;
   background-image: url(../images/feynman.png);
   background-size: cover;
-  z-index: 0;
   bottom: 0px;
   left: 0px;
   z-index: 1;
@@ -252,7 +251,6 @@ ul{
   font-weight: normal;
   text-decoration: none;
   color:#2f80ed;
-  z-index: 2;
 }
 
 .kaufman {
