@@ -173,6 +173,8 @@
 
 .table_theme_dark {
   margin: 0 auto 90px;
+  position: relative;
+  z-index: 2;
 }
 
 .table__cell_theme_white {
@@ -183,8 +185,6 @@
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
-  position: relative;
-  z-index: 2;
 }
 
 .table__heading {
